@@ -3,6 +3,7 @@
 Sau khi clone về thực hiện các bước dưới đây để setup 
 - Coppy file .env.example > .env
 - Chạy lệnh php artisan key:generate
+- Setup lại thông tin DB trong .env
 - Run composer install 
 - Cài đặt Passport
 	+ php artisan migrate
