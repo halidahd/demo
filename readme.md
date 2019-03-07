@@ -37,7 +37,7 @@ Param:
 + Content-Type:application/x-www-form-urlencoded
 
 ##### Update User 
-[POST] /api/user/update
+[PUT] /api/user/update
 
 Param:
 - password: nullable | string
